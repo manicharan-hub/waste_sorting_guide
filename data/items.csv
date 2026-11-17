@@ -1,0 +1,45 @@
+name,category,tip
+newspaper,Paper,Keep dry; bundle with other paper.
+cardboard box,Paper,Flatten boxes before binning.
+office paper,Paper,Staples are fine; remove plastic covers.
+magazine,Paper,Glossy paper is recyclable.
+paper cup,Landfill,Plastic lining makes most cups non-recyclable.
+pizza box,Landfill,Grease-soaked cardboard contaminates recycling.
+tissue paper,Landfill,Used tissues are too short-fibred to recycle.
+plastic bottle,Plastic,"Empty, rinse and crush; keep the cap on."
+milk jug,Plastic,Rinse; HDPE is widely recycled.
+plastic bag,Plastic,"Take to a store drop-off, not the kerbside bin."
+food container,Plastic,Rinse off food residue first.
+styrofoam,Landfill,Expanded polystyrene is rarely accepted.
+chip packet,Landfill,Multi-layer foil film is not recyclable.
+straw,Landfill,Too small to sort; use a reusable one.
+glass bottle,Glass,Rinse; remove metal lids and recycle separately.
+glass jar,Glass,Rinse; labels can stay on.
+broken glass,Hazardous,"Wrap in newspaper, label as sharp."
+window glass,Landfill,Different melting point from bottle glass.
+aluminium can,Metal,Rinse and crush.
+tin can,Metal,Rinse; labels can stay on.
+aluminium foil,Metal,Ball up clean foil; greasy foil goes to landfill.
+bottle cap,Metal,Metal caps: collect in a tin and recycle.
+scrap metal,Metal,Take to a scrap collector.
+food scraps,Organic,Compost; avoid meat and dairy in home bins.
+fruit peel,Organic,Great for compost.
+tea bag,Organic,Compost if the bag is plant-based.
+coffee grounds,Organic,Excellent compost nitrogen source.
+garden waste,Organic,Leaves and cuttings: compost or green bin.
+eggshell,Organic,Crush and compost.
+battery,Hazardous,Never bin; use a battery drop-off point.
+paint can,Hazardous,Take to a hazardous waste facility.
+light bulb,Hazardous,CFL/LED bulbs go to special collection.
+medicine,Hazardous,Return expired medicine to a pharmacy.
+aerosol can,Hazardous,Only empty cans can be recycled as metal.
+mobile phone,E-Waste,"Donate, or use an e-waste take-back."
+laptop,E-Waste,Wipe data; use a certified recycler.
+charger cable,E-Waste,Collect with other e-waste.
+headphones,E-Waste,"Repair, or recycle as e-waste."
+printer cartridge,E-Waste,Manufacturer take-back programs exist.
+old clothes,Landfill,Donate if wearable; otherwise textile drop-off.
+cigarette butt,Landfill,Fully extinguish; never litter.
+diaper,Landfill,Wrap and bin as general waste.
+ceramic mug,Landfill,Ceramics cannot be recycled with glass.
+face mask,Landfill,"Cut the ear loops, then bin."

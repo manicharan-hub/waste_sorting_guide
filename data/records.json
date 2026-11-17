@@ -1,0 +1,353 @@
+[
+  {
+    "id": 1,
+    "date": "2026-10-30",
+    "item": "straw",
+    "category": "Landfill",
+    "quantity": 9,
+    "weight_kg": 0.01,
+    "notes": "canteen"
+  },
+  {
+    "id": 2,
+    "date": "2026-11-16",
+    "item": "scrap metal",
+    "category": "Metal",
+    "quantity": 8,
+    "weight_kg": 50.0,
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "date": "2026-11-17",
+    "item": "paint can",
+    "category": "Hazardous",
+    "quantity": 10,
+    "weight_kg": 3.4,
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "date": "2026-11-09",
+    "item": "bottle cap",
+    "category": "Metal",
+    "quantity": 500,
+    "weight_kg": 2.58,
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "date": "2026-11-03",
+    "item": "plastic bottle",
+    "category": "Plastic",
+    "quantity": 10,
+    "weight_kg": 0.97,
+    "notes": ""
+  },
+  {
+    "id": 6,
+    "date": "2026-11-11",
+    "item": "printer cartridge",
+    "category": "E-Waste",
+    "quantity": 11,
+    "weight_kg": 1.36,
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "date": "2026-11-13",
+    "item": "coffee grounds",
+    "category": "Organic",
+    "quantity": 8,
+    "weight_kg": 0.35,
+    "notes": "lab clean-up"
+  },
+  {
+    "id": 8,
+    "date": "2026-11-06",
+    "item": "garden waste",
+    "category": "Organic",
+    "quantity": 3,
+    "weight_kg": 1.65,
+    "notes": ""
+  },
+  {
+    "id": 9,
+    "date": "2026-10-03",
+    "item": "office paper",
+    "category": "Paper",
+    "quantity": 3,
+    "weight_kg": 3.45,
+    "notes": "lab clean-up"
+  },
+  {
+    "id": 10,
+    "date": "2026-11-02",
+    "item": "diaper",
+    "category": "Landfill",
+    "quantity": 4,
+    "weight_kg": 0.39,
+    "notes": "lab clean-up"
+  },
+  {
+    "id": 11,
+    "date": "2026-10-31",
+    "item": "food scraps",
+    "category": "Organic",
+    "quantity": 9,
+    "weight_kg": 3.39,
+    "notes": "hostel block A"
+  },
+  {
+    "id": 12,
+    "date": "2026-09-28",
+    "item": "face mask",
+    "category": "Landfill",
+    "quantity": 5,
+    "weight_kg": 2.2,
+    "notes": "fest event"
+  },
+  {
+    "id": 13,
+    "date": "2026-11-13",
+    "item": "pizza box",
+    "category": "Landfill",
+    "quantity": 4,
+    "weight_kg": 2.35,
+    "notes": "sports hall"
+  },
+  {
+    "id": 14,
+    "date": "2026-09-26",
+    "item": "charger cable",
+    "category": "E-Waste",
+    "quantity": 8,
+    "weight_kg": 1.53,
+    "notes": "dept. office"
+  },
+  {
+    "id": 15,
+    "date": "2026-11-16",
+    "item": "chip packet",
+    "category": "Landfill",
+    "quantity": 3,
+    "weight_kg": 2.89,
+    "notes": "dept. office"
+  },
+  {
+    "id": 16,
+    "date": "2026-09-28",
+    "item": "plastic bag",
+    "category": "Plastic",
+    "quantity": 2,
+    "weight_kg": 2.56,
+    "notes": ""
+  },
+  {
+    "id": 17,
+    "date": "2026-10-29",
+    "item": "medicine",
+    "category": "Hazardous",
+    "quantity": 5,
+    "weight_kg": 0.82,
+    "notes": ""
+  },
+  {
+    "id": 18,
+    "date": "2026-10-11",
+    "item": "broken glass",
+    "category": "Hazardous",
+    "quantity": 7,
+    "weight_kg": 1.03,
+    "notes": "canteen"
+  },
+  {
+    "id": 19,
+    "date": "2026-11-03",
+    "item": "tea bag",
+    "category": "Organic",
+    "quantity": 8,
+    "weight_kg": 2.1,
+    "notes": ""
+  },
+  {
+    "id": 20,
+    "date": "2026-10-09",
+    "item": "paint can",
+    "category": "Hazardous",
+    "quantity": 12,
+    "weight_kg": 0.39,
+    "notes": "sports hall"
+  },
+  {
+    "id": 21,
+    "date": "2026-10-11",
+    "item": "cardboard box",
+    "category": "Paper",
+    "quantity": 3,
+    "weight_kg": 3.22,
+    "notes": "lab clean-up"
+  },
+  {
+    "id": 22,
+    "date": "2026-10-15",
+    "item": "cardboard box",
+    "category": "Paper",
+    "quantity": 7,
+    "weight_kg": 2.31,
+    "notes": ""
+  },
+  {
+    "id": 23,
+    "date": "2026-10-24",
+    "item": "glass bottle",
+    "category": "Glass",
+    "quantity": 12,
+    "weight_kg": 0.39,
+    "notes": ""
+  },
+  {
+    "id": 24,
+    "date": "2026-10-02",
+    "item": "office paper",
+    "category": "Paper",
+    "quantity": 1,
+    "weight_kg": 2.01,
+    "notes": "hostel block A"
+  },
+  {
+    "id": 25,
+    "date": "2026-10-20",
+    "item": "food scraps",
+    "category": "Organic",
+    "quantity": 1,
+    "weight_kg": 2.99,
+    "notes": "canteen"
+  },
+  {
+    "id": 26,
+    "date": "2026-10-20",
+    "item": "tissue paper",
+    "category": "Landfill",
+    "quantity": 12,
+    "weight_kg": 1.15,
+    "notes": "library"
+  },
+  {
+    "id": 27,
+    "date": "2026-11-06",
+    "item": "medicine",
+    "category": "Hazardous",
+    "quantity": 5,
+    "weight_kg": 0.96,
+    "notes": ""
+  },
+  {
+    "id": 28,
+    "date": "2026-11-16",
+    "item": "pizza box",
+    "category": "Landfill",
+    "quantity": 4,
+    "weight_kg": 1.17,
+    "notes": ""
+  },
+  {
+    "id": 29,
+    "date": "2026-10-02",
+    "item": "garden waste",
+    "category": "Organic",
+    "quantity": 5,
+    "weight_kg": 3.2,
+    "notes": "sports hall"
+  },
+  {
+    "id": 30,
+    "date": "2026-09-22",
+    "item": "window glass",
+    "category": "Landfill",
+    "quantity": 7,
+    "weight_kg": 1.88,
+    "notes": "fest event"
+  },
+  {
+    "id": 31,
+    "date": "2026-09-21",
+    "item": "ceramic mug",
+    "category": "Landfill",
+    "quantity": 4,
+    "weight_kg": 2.44,
+    "notes": ""
+  },
+  {
+    "id": 32,
+    "date": "2026-09-24",
+    "item": "window glass",
+    "category": "Landfill",
+    "quantity": 5,
+    "weight_kg": 0.92,
+    "notes": "canteen"
+  },
+  {
+    "id": 33,
+    "date": "2026-10-14",
+    "item": "aluminium can",
+    "category": "Metal",
+    "quantity": 9,
+    "weight_kg": 0.83,
+    "notes": ""
+  },
+  {
+    "id": 34,
+    "date": "2026-10-20",
+    "item": "food scraps",
+    "category": "Organic",
+    "quantity": 7,
+    "weight_kg": 3.31,
+    "notes": "hostel block A"
+  },
+  {
+    "id": 35,
+    "date": "2026-10-04",
+    "item": "office paper",
+    "category": "Paper",
+    "quantity": 2,
+    "weight_kg": 1.76,
+    "notes": "sports hall"
+  },
+  {
+    "id": 36,
+    "date": "2026-11-10",
+    "item": "charger cable",
+    "category": "E-Waste",
+    "quantity": 11,
+    "weight_kg": 1.47,
+    "notes": "lab clean-up"
+  },
+  {
+    "id": 37,
+    "date": "2026-11-12",
+    "item": "battery",
+    "category": "Hazardous",
+    "quantity": 12,
+    "weight_kg": 0.81,
+    "notes": ""
+  },
+  {
+    "id": 38,
+    "date": "2026-11-15",
+    "item": "pizza box",
+    "category": "Landfill",
+    "quantity": 3,
+    "weight_kg": 0.98,
+    "notes": "dept. office"
+  },
+  {
+    "id": 39,
+    "date": "2026-10-23",
+    "item": "old clothes",
+    "category": "Landfill",
+    "quantity": 7,
+    "weight_kg": 3.3,
+    "notes": "library"
+  }
+]

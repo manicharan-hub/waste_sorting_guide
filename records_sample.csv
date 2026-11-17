@@ -1,0 +1,42 @@
+id,date,item,category,quantity,weight_kg,notes
+1,2026-10-29,straw,Landfill,9,0.01,canteen
+2,2026-11-15,scrap metal,Metal,8,50.0,
+3,2026-11-16,paint can,Hazardous,10,3.4,
+4,2026-11-08,bottle cap,Metal,500,2.58,
+5,2026-11-02,plastic bottle,Plastic,10,0.97,
+6,2026-11-10,printer cartridge,E-Waste,11,1.36,
+7,2026-11-12,coffee grounds,Organic,8,0.35,lab clean-up
+8,2026-11-05,garden waste,Organic,3,1.65,
+9,2026-10-02,office paper,Paper,3,3.45,lab clean-up
+10,2026-11-01,diaper,Landfill,4,0.39,lab clean-up
+11,2026-10-30,food scraps,Organic,9,3.39,hostel block A
+12,2026-09-27,face mask,Landfill,5,2.2,fest event
+13,2026-11-12,pizza box,Landfill,4,2.35,sports hall
+14,2026-09-25,charger cable,E-Waste,8,1.53,dept. office
+15,2026-11-15,chip packet,Landfill,3,2.89,dept. office
+16,2026-09-27,plastic bag,Plastic,2,2.56,
+17,2026-10-28,medicine,Hazardous,5,0.82,
+18,2026-10-10,broken glass,Hazardous,7,1.03,canteen
+19,2026-11-02,tea bag,Organic,8,2.1,
+20,2026-10-08,paint can,Hazardous,12,0.39,sports hall
+21,2026-10-10,cardboard box,Paper,3,3.22,lab clean-up
+22,2026-10-14,cardboard box,Paper,7,2.31,
+23,2026-10-23,glass bottle,Glass,12,0.39,
+24,2026-10-01,office paper,Paper,1,2.01,hostel block A
+25,2026-10-19,food scraps,Organic,1,2.99,canteen
+26,2026-10-19,tissue paper,Landfill,12,1.15,library
+27,2026-11-05,medicine,Hazardous,5,0.96,
+28,2026-11-15,pizza box,Landfill,4,1.17,
+29,2026-10-01,garden waste,Organic,5,3.2,sports hall
+30,2026-09-21,window glass,Landfill,7,1.88,fest event
+31,2026-09-20,ceramic mug,Landfill,4,2.44,
+32,2026-09-23,window glass,Landfill,5,0.92,canteen
+33,2026-10-13,aluminium can,Metal,9,0.83,
+34,2026-10-19,food scraps,Organic,7,3.31,hostel block A
+35,2026-10-03,office paper,Paper,2,1.76,sports hall
+36,2026-11-09,charger cable,E-Waste,11,1.47,lab clean-up
+37,2026-11-11,battery,Hazardous,12,0.81,
+38,2026-11-14,pizza box,Landfill,3,0.98,dept. office
+39,2026-10-22,old clothes,Landfill,7,3.3,library
+40,2026-10-03,paint can,Hazardous,9,0.28,
+41,2026-11-16,glass jar,Glass,3,1.2,fest

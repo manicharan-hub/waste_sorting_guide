@@ -1,0 +1,7 @@
+date,item,category,quantity,weight_kg,notes
+2026-11-10,laptop,,1,2.1,inferred category
+2026-11-11,fruit peel,Organic,3,0.4,
+2026-13-01,straw,Landfill,2,0.1,bad date
+2026-11-12,battery,Hazardous,abc,0.1,bad quantity
+2026-11-12,glass jar,Glass,2,99,weight too high
+2026-11-12,unicorn dust,,1,1,unknown item
